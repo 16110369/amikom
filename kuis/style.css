@@ -1,0 +1,14 @@
+.text{
+	text-align: center;
+}
+.border{
+	margin: 5px;
+	margin-bottom: 30px;
+}
+.border 1{
+	margin: 2px;
+}
+.header{
+	background-image:url(3.jpg); 
+	height: 500px;
+}
